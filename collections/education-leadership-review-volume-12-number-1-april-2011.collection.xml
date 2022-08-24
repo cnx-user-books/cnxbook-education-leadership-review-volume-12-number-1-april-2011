@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="National Council of Professors  of Educational Administration">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11285</md:content-id>
     <md:title>Education Leadership Review, Volume 12, Number 1 (April 2011)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>3a7fce4b-4ce3-484d-a47b-dcd06e4cfda5</md:uuid>
-<md:slug>education-leadership-review-volume-12-number-1-april-2011</md:slug>
-</metadata>
+    <md:slug>education-leadership-review-volume-12-number-1-april-2011</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m37190"/>
     <col:module document="m37191"/>
